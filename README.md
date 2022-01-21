@@ -1,7 +1,4 @@
-   <p align="center">
-  <Hi there 👋 I am Chandana>
-</p>
-
+<h1 align="center">Hi there 👋 I am Chandana</h1>
 
 - 🔭 I’m currently working on Python Codes.
 - 🌱 I’m currently learning TensorFlow.
