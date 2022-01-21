@@ -1,4 +1,6 @@
-   # Hi there 👋 I am Chandana
+   <p align="center">
+  <# Hi there 👋 I am Chandana>
+</p>
 
 
 - 🔭 I’m currently working on Python Codes.
