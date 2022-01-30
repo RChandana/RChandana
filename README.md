@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I am Chandana</h1>
 
-- 🔭 I’m currently working on Python Codes.
+- 🔭 I’m currently working on Python and Java Codes.
 - 🌱 I’m currently learning TensorFlow and Java.
 - 🤔 I’m looking for help with Machine Learning and Python.
 - ⚡ Fun fact: I play a lot with Dank Memer Bot.
