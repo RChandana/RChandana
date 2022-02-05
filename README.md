@@ -6,4 +6,5 @@
 - ⚡ Fun fact: I play a lot with Dank Memer Bot.
 - :heart:  I really like contributing to Open Source.
 
-![Chandana's GitHub stats](https://github-readme-stats.vercel.app/api?username=RChandana&hide=contribs)
+
+    ![Chandana's GitHub stats](https://github-readme-stats.vercel.app/api?username=RChandana&theme=dark&show_icons=true)
