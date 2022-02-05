@@ -7,7 +7,7 @@
 - :heart:  I really like contributing to Open Source.
 
 
-    ![Chandana's GitHub stats](https://github-readme-stats.vercel.app/api?username=RChandana&theme=dark&show_icons=true)
+    ![Chandana's GitHub stats](https://github-readme-stats.vercel.app/api?username=RChandana&theme=dark&show_icons=true&align="centre")
 
 
     
