@@ -26,4 +26,23 @@
      ![](https://img.shields.io/badge/CODE-PYTHON-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=RED)                   ![](https://img.shields.io/badge/CODE-JAVA-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=RED)                     ![](https://img.shields.io/badge/CODE-HTML-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=RED)                     ![](https://img.shields.io/badge/CODE-C++-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=RED)
      
      
-     ![](https://img.shields.io/badge/TOOLS-MATLAB-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=RED)           ![](https://img.shields.io/badge/TOOLS-GITHUB-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=RED)                    ![](https://img.shields.io/badge/TOOLS-VS_CODE-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=RED)                   ![](https://img.shields.io/badge/TOOLS-FIGMA-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=RED)                     ![](https://img.shields.io/badge/TOOLS-DevEco_STUDIO-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=RED)                                     
+     ![](https://img.shields.io/badge/TOOLS-MATLAB-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=RED)           ![](https://img.shields.io/badge/TOOLS-GITHUB-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=RED)                    ![](https://img.shields.io/badge/TOOLS-VS_CODE-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=RED)                   ![](https://img.shields.io/badge/TOOLS-FIGMA-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=RED)                     ![](https://img.shields.io/badge/TOOLS-DevEco_STUDIO-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=RED)      
+     
+     
+     
+     
+<!-- Actual text -->
+
+## Get in touch with me on 
+[![Twitter][1.2]][1]     [![LinkedIn][2.2]][2]      [![Instagram][3.2]][3]
+
+<!-- Icons -->
+
+[1.2]: https://cdn.exclaimer.com/Handbook%20Images/twitter-icon_square_64x64.png?_ga=2.179750628.1162111142.1644152043-1592987764.1644152042
+[2.2]: https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_square_64x64.png?_ga=2.179750628.1162111142.1644152043-1592987764.1644152042
+[3.2]: https://cdn.exclaimer.com/Handbook%20Images/instagram-icon_square_64x64.png?_ga=2.169625953.1162111142.1644152043-1592987764.1644152042
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/r_hari_chandu
+[2]: https://www.linkedin.com/in/hari-chandana-5a6a621a8/
+[3]: https://www.instagram.com/techno_savvvvy/
