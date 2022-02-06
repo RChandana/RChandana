@@ -1,4 +1,5 @@
-<h1 align="center">Hi there 👋 I am Chandana</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
+ I am Chandana</h1>
 
 - 🔭 I’m currently working on Python and Java Codes.
 - 🌱 I’m currently learning TensorFlow and Java.
