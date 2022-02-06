@@ -14,4 +14,4 @@
      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RChandana&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-     ![](https://komarev.com/ghpvc/?username=RChandana&align=center)
+     ![](https://komarev.com/ghpvc/?username=RChandana&style=plastic&color=ff69b4&label=TOTAL+NUMBER+OF+PROFILE+VIEWS)
