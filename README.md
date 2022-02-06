@@ -17,3 +17,6 @@
 
 
      ![](https://komarev.com/ghpvc/?username=RChandana&style=plastic&color=ff69b4&label=TOTAL+NUMBER+OF+PROFILE+VIEWS)
+
+
+     ![](https://img.shields.io/badge/OS-MAC-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
