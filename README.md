@@ -9,16 +9,25 @@
 - :heart:  I really like contributing to Open Source.
 
 
-    ![Chandana's GitHub stats](https://github-readme-stats.vercel.app/api?username=RChandana&theme=dark&show_icons=true)
-    
+
+   <p align="center">
+     <a href="https://sourcerer.io/RChandana">
+       <img alt = "Chandana's GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=RChandana&theme=dark&show_icons=true">
+   </p>
+     
+     
+
+   <p align="center">
      <a href="https://sourcerer.io/RChandana">
     <img alt = "GitHub Streaks" src = "https://github-readme-streak-stats.herokuapp.com?user=RChandana&theme=dark&show=1E90FF&sideNums=1E90FF&sideLabels=1E90FF&currStreakLabel=1E90FF&fire=FF0000&currStreakNum=FF0000">
   </a>
   <br>
+  </p>   
    
-   
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RChandana&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+     
+     <p align="center">
+      <img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RChandana&theme=dark&show_icons=true">
+     </p>
 
 
      ![](https://komarev.com/ghpvc/?username=RChandana&style=plastic&color=ff69b4&label=TOTAL+NUMBER+OF+PROFILE+VIEWS)
