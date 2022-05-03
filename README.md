@@ -3,7 +3,7 @@
  
 
 - 🔭 I’m currently working on Python and Java Codes.
-- 🌱 I’m currently learning TensorFlow and Java.
+- 🌱 I’m currently learning Java.
 - 🤔 I’m looking for help with Machine Learning and Python.
 - ⚡ Fun fact: I play a lot with Dank Memer Bot.
 - :heart:  I really like contributing to Open Source.
