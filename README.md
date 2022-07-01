@@ -2,9 +2,10 @@
  I am Chandana</h1>
  
 
-- 🔭 I’m currently working on Python and Java Codes.
-- 🌱 I’m currently learning Java.
-- 🤔 I’m looking for help with Machine Learning and Python.
+- 🔭 I’m currently working on Java Codes.
+- 🌱 I’m currently learning Machine Learning using Java.
+- 🤔 I’m looking for help with Deep Learning.
+-    You can ask me about Java.
 - ⚡ Fun fact: I play a lot with Dank Memer Bot.
 - :heart:  I really like contributing to Open Source.
 
