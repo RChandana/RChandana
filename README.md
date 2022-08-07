@@ -3,8 +3,8 @@
  
 
 - 🔭 I’m currently working on Java Codes.
-- 🌱 I’m currently learning Machine Learning using Java.
-- 🤔 I’m looking for help with Deep Learning.
+- 🌱 I’m currently learning Machine Learning Algorithms using Java.
+- 🤔 I’m looking for help with Deep Learning and Neural Networks.
 -    You can ask me about Java.
 - ⚡ Fun fact: I play a lot with Dank Memer Bot.
 - :heart:  I really like contributing to Open Source.
