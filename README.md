@@ -34,7 +34,7 @@
      ![](https://komarev.com/ghpvc/?username=RChandana&style=plastic&color=ff69b4&label=TOTAL+NUMBER+OF+PROFILE+VIEWS)
 
 
-     ![](https://img.shields.io/badge/OS-MAC-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=f03c15)                ![](https://img.shields.io/badge/OS-WINDOWS-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=f03c15) 
+     ![](https://img.shields.io/badge/OS-MAC-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=f03c15)                ![](https://img.shields.io/badge/OS-WINDOWS-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=f03c15)                ![](https://img.shields.io/badge/OS-LINUX-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=f03c15) 
      
      
      ![](https://img.shields.io/badge/CODE-PYTHON-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=f03c15)                   ![](https://img.shields.io/badge/CODE-JAVA-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=f03c15)                     ![](https://img.shields.io/badge/CODE-HTML-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=f03c15)                     ![](https://img.shields.io/badge/CODE-C++-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=f03c15)                      
