@@ -2,10 +2,10 @@
  I am Chandana</h1>
  
 
-- 🔭 I’m currently working on Java Codes and Flask.
-- 🌱 I’m currently learning Machine Learning Algorithms using Java.
-- 🤔 I’m looking for help with Deep Learning and Neural Networks.
--    You can ask me about Java.
+- 🔭 I’m currently working on Computer Vision Models.
+- 🌱 I’m currently learning Image and Hierarchical Localization.
+- 🤔 I’m looking for help with NLP.
+-    You can ask me about Java and Python.
 - ⚡ Fun fact: I spend my leasure time reading novels.
 - :heart:  I really like contributing to Open Source.
 
