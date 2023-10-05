@@ -1,9 +1,6 @@
 ![Blue Modern Gradient Technology LinkedIn Banner](https://github.com/RChandana/RChandana/assets/89007620/abae3f86-e730-499b-911c-5cacb81010d7)
 
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
- I am Chandana</h1>
- 
 
 - 🔭 I’m currently working on Computer Vision Models.
 - 🌱 I’m currently learning Image and Hierarchical Localization.
@@ -67,3 +64,4 @@
 [3]: https://www.instagram.com/techno_savvvvy/
 
 
+<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
