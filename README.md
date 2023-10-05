@@ -63,5 +63,3 @@
 [2]: https://www.linkedin.com/in/hari-chandana-5a6a621a8/
 [3]: https://www.instagram.com/techno_savvvvy/
 
-
-<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
