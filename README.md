@@ -1,4 +1,4 @@
-https://github.com/RChandana/RChandana/assets/89007620/93af32df-04fb-403e-964b-2762ad021b1b
+![Blue Modern Gradient Technology LinkedIn Banner](https://github.com/RChandana/RChandana/assets/89007620/abae3f86-e730-499b-911c-5cacb81010d7)
 
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
